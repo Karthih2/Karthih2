@@ -1,3 +1,5 @@
+<img src="assets/orv.png" alt="banner" width="100%">
+
 <div align="center">
 
 # Hi there, I'm **Karthick S** 👋
@@ -62,3 +64,4 @@ I'm a developer passionate about building intelligent, scalable systems at the i
 <div align="center">
 **💭 "Curiosity-driven. Impact-focused. Always building something new."**
 </div>
+<img src="assets/alone.gif" alt="footer" width="100%">
