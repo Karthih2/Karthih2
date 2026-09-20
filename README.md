@@ -21,14 +21,12 @@
   alt="Karthick S"
   style="margin-right: 25px; margin-bottom: 10px;"
 />
-
-Hi, I'm **Karthick S**.
+<h3>Hi there, I'm <b>Karthick S</b> 👋</h3>
 
 I'm a developer focused on **Data Engineering, AI/ML, and Backend Development**. I work with Python, SQL, databases, cloud platforms, and machine learning to build practical data-driven applications.
 
 I'm particularly interested in **how systems store, organize, process, and access data** — from choosing the right data model and storage system to understanding different access patterns, query behavior, and how these choices affect performance and scalability.
 
-Most of my learning happens through **hands-on projects, experiments, and solving real technical problems**. I enjoy understanding how things work behind the application layer and building systems around those ideas.
 
 🔧 **Building:** Data pipelines, backend applications, and AI/ML projects  
 💻 **Working with:** Python · SQL · MongoDB · MySQL · Databricks · Snowflake · FastAPI  
@@ -120,8 +118,6 @@ Most of my learning happens through **hands-on projects, experiments, and solvin
   width="180"
   alt="Profile Visitors"
 />
-
-
 
 <img 
   src="https://streak-stats.demolab.com?user=Karthih2&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=FF9F43&fire=FF9F43&currStreakLabel=FF9F43&sideLabels=E8E8E8&dates=8B949E"
