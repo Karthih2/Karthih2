@@ -10,22 +10,38 @@
 
 </div>
 
-I'm a developer focused on **Data Engineering, AI/ML, and Backend Development**. I work with Python, SQL, databases, cloud platforms, and machine learning to build practical data-driven applications.  
-I'm particularly interested in systems that take data from raw sources, process and validate it, and turn it into something useful. Most of my learning happens through hands-on projects, experiments, and solving real technical problems.
+<div>
+## 👋 About Me
 
+<div align="left">
+
+<img 
+  align="left"
+  width="250"
+  src="assets/rimura music.jpg"
+  alt="Karthick S"
+  style="margin-right: 28px; margin-bottom: 15px;"
+/>
+
+### Hi, I'm **Karthick S** 👋
+
+**AI & Data Science · Data Engineering · Databases · AI/ML · Backend**
+
+I'm a final-year **Artificial Intelligence & Data Science student** passionate about building practical, data-driven systems and understanding how things work behind the scenes.
+
+🔭 **Currently:** Working on Data Engineering & AI/ML projects  
+🛠️ **Working with:** Python · SQL · MongoDB · Snowflake · Databricks · FastAPI · ML · LLMs/RAG  
+🧠 **Interested in:** Data Engineering · Data Systems · AI Engineering · Backend Development · Database Design  
+🎯 **Building toward:** Reliable data-driven systems across **Data, AI & Backend**
+
+<br clear="left"/>
+</div>
 <!-- Smooth divider with a center ticker/dot -->
 <div style="display: flex; align-items: center; justify-content: center; margin: 35px 0;">
   <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, rgba(255,159,67,0), rgba(255,159,67,0.8)); border-radius: 2px;"></div>
   <div style="margin: 0 15px; width: 8px; height: 8px; background-color: #FF9F43; border-radius: 50%; box-shadow: 0 0 8px #FF9F43;"></div>
   <div style="flex-grow: 1; height: 2px; background: linear-gradient(to left, rgba(255,159,67,0), rgba(255,159,67,0.8)); border-radius: 2px;"></div>
 </div>
-
-## 🔭 Currently Working On
-- Data engineering projects covering ingestion, transformation, validation, and storage
-- Python, SQL, DuckDB, MongoDB, Snowflake, and Databricks
-- AI-powered applications using LLMs, RAG, LangChain, embeddings, and agent workflows
-- Backend services and APIs with FastAPI
-- Data quality, anomaly detection, and data reliability
 
 ## 🌱 Learning & Exploring
 - Modern data platforms and pipeline design
