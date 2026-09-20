@@ -1,4 +1,4 @@
-name: Generate Badge
+name: Generate GitHub Stats Badge
 
 on:
   workflow_dispatch:
@@ -11,6 +11,9 @@ jobs:
     name: Update stats card
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: datarootsio/github-stats-card@v1
         with:
@@ -18,10 +21,7 @@ jobs:
           gh_token_stats: ${{ secrets.GH_PAT }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
-
-          header: "🐈‍⬛ Hi, I'm Karthick"
+          header: "👋 Hi, I'm Karthick"
           about: "Data Engineering • AI/ML • Backend Development"
-
-          theme: dark
-
+          theme: neko-sleeps
           commit_message: "Update GitHub stats badge"
