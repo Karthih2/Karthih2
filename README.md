@@ -4,7 +4,10 @@
 
 <div align="center">
 
-# Hi there, I'm **Karthick S** 👋
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&repeat=false&color=6FA8DC&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Karthick+S+%F0%9F%91%8B"
+  alt="Hi there, I'm Karthick S"
+/>
 
 ### Aspiring Data Engineer • Databases Enthusiast • Software Engineering
 
