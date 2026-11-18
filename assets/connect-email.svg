@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="92" viewBox="0 0 84 92" role="img" aria-label="Email"><title>Email</title><style>
+  .in { opacity: 0; animation: rise .6s cubic-bezier(.2,.8,.2,1) forwards; }
+  .glow { animation: glow 6s ease-in-out infinite; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes glow { 0%, 100% { stroke-opacity: .75; } 50% { stroke-opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } .glow { animation: none; } }
+</style><g class="in" style="animation-delay:0.24s">
+  <rect x=".75" y=".75" width="82.5" height="90.5" rx="11" fill="#FBDFDD" stroke="#F6B0AA" stroke-width="1.2"/>
+  <text x="9" y="17" font-family="'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#7A8290">03</text>
+  <svg x="31.0" y="18" width="22" height="22" viewBox="0 0 24 24" fill="#EA4335"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457"/></svg>
+  <text x="42.0" y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#2B303A" text-anchor="middle">Em</text>
+  <text x="42.0" y="80" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="10" fill="#5C6472" text-anchor="middle">Email</text>
+</g></svg>
